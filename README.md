@@ -53,7 +53,7 @@ These notebooks were developed in Google Colab and are easiest to run there.
 
 1. Open a notebook (e.g. `02_fusion_model_training.ipynb`) in [Google Colab](https://colab.research.google.com/)
 2. Upload the sample data from `sample_data/` (or mount your own KAIST dataset)
-3. Pretrained models and the full dataset are available here: [Drive link](https://drive.google.com/drive/folders/11nOgYSqk2eIU98jUsBUi7ysdos1A376?usp=sharing)
+3. Pretrained models are available here: [Drive link](https://drive.google.com/drive/folders/1z1BcWZndI7DCZQHn49e5AkI8A-oSY_Q_?usp=sharing)
 4. Update the data/model paths in the first few cells to point to your uploaded files
 5. Run all cells
 
@@ -68,5 +68,4 @@ These notebooks were developed in Google Colab and are easiest to run there.
 
 ## Notes
 
-- Models were trained on Google Colab; pretrained weights are linked above rather than included in this repo due to size.
-- A short demo video showing fusion and detection results is also available in the Drive folder above.
+- Models were trained on Google Colab; pretrained weights are linked above rather than included in this repo due to size. You can plug these models in your notebook to test.
